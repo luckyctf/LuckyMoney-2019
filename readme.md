@@ -41,12 +41,26 @@ PS: 别人发给你的flag不算数哟~我会问你怎么做到的 (。ゝω・�
 
 #2 这个flag淹没在历史的长河里
 
-#3 这个flag是解压密码经过某种变换后的结果（Notepad++之类的工具里就有的变换）
+#3 这个flag是解压密码经过某种变换后的结果
+
+   找规律：
+   
+   base64encode("flag{")="ZmxhZ3s="
+   
+   base64encode("flag{1")="ZmxhZ3sx"
+   
+   base64encode("flag{A")="ZmxhZ3tB"
+   
+   base64encode("flag{test")="ZmxhZ3t0ZXN0"
 
 #4 这个flag需要你用点办法checkout
 
 #5 图片里隐藏了额外的图片内容
 
-#6 这个提示以另外一种格式藏在 #5 的图片里
+#6 有个提示以另外一种格式藏在 #5 的图片里
+
+   是谁混用空格和TAB的？！
+   
+   洋葱牌SSTV放送中
 
 
