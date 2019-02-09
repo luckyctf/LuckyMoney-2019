@@ -26,7 +26,7 @@ PS: 别人发给你的flag不算数哟~我会问你怎么做到的 (。ゝω・�
 | 2          | ??? |   ★☆   | 3/5|c9ee4a08a2cc820a43f3cb85f2650cd43a318bb9a39e028325c288e93bd7dfac|
 | 3          |  ./problems/History.zip  |  ★★  |9/10|4774b2fbb4d35ac57a66f5c8cfe47e29f7911210544b6d76f729219b5ccb5b0a |
 | 4          |  ./problems/Cat_Git.zip  |  ★★☆  |10/10| 52192ee39c35d7836cb73c50c8a5caccb2213e35c9ebc9571c04412a9f05387a |
-| 5          |  ./problems/History.zip  |  ★★★☆  |20/20|152c8a8b1bbb2ef459dc241ce90aebd99bf4cab678734598bfe9f2ed21bc9f1f |
+| 5          |  ./problems/History.zip  |  ★★★☆  |19/20|152c8a8b1bbb2ef459dc241ce90aebd99bf4cab678734598bfe9f2ed21bc9f1f |
 | 6          |  ./problems/js.js  |  ★★★★★  |∞|ff04ab4669705c43aed40019195524d056e1b77d404c269c2dce9fcff49e0a79 |
 
 技艺不精，还请大佬轻虐。
@@ -54,6 +54,8 @@ PS: 别人发给你的flag不算数哟~我会问你怎么做到的 (。ゝω・�
    base64encode("flag{test")="ZmxhZ3t0ZXN0"
 
 #4 这个flag需要你用点办法checkout
+
+   要！要！切克闹！
 
 #5 图片里隐藏了额外的图片内容
 
