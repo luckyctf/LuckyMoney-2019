@@ -7,7 +7,7 @@
 
 ![EOF comment](01.png)
 
-可以试一下把EOF及后面的内容删掉（其实不删掉也是能运行的），丢进[解释器](https://vii5ard.github.io/whitespace/)里，得到flag。你们搞的这个flag啊，excited！
+可以试一下把EOF及后面的内容删掉（其实不删掉也是能运行的），丢进[解释器](https://vii5ard.github.io/whitespace/)里，得到flag **flag{no_NvZhuang_no_FuDai}**。你们搞的这个flag啊，excited！
 
 ![flag in whitespace program](02.png)
 

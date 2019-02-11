@@ -6,17 +6,17 @@
 
 这一题没绕什么弯，上来就是一个Git仓库。
 
-先 ```git log ``` 一下
+先 `git log ` 一下
 
 ![git log](01.png)
 
-那么就 ```git log --stat``` 看看都commit了些什么吧。
+那么就 `git log --stat` 看看都commit了些什么吧。
 
 ![git log --stat](02.png)
 
 那么有多少条commit呢？
 
-```git log --oneline | wc -l```
+`git log --oneline | wc -l`
 
 ![git log --oneline | wc -l](03.png)
 
@@ -27,10 +27,10 @@
 ```
 #!/bin/bash
 
-for((i=1;i<=525;i++));
+for((i=1;i<=525;i++))
 do
-	echo Checkout...$i;
-	git checkout master~$i "*.*";
+	echo Checkout...$i
+	git checkout master~$i "*.*"
 done
 ```
 
@@ -48,8 +48,8 @@ zip分卷压缩包就出来了。
 
 至于为什么rtf坏了，这不是我干的。。。一番diff之后一起看看Git干的好事吧（由于我没有保留原始文件，下面的例子是后面补的）
 
-![CRC failed](06.png)
+![Before](06.png)
 
-![CRC failed](07.png)
+![After](07.png)
 
 嗯。。。游戏体验极差
