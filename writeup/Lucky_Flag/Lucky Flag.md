@@ -16,12 +16,12 @@
 
 >这个flag淹没在历史的长河里
 
-![readme.md](02.png)
+![.gitignore 1](02.png)
 
-![readme.md](03.png)
+![.gitignore 2](03.png)
 
 找找历史版本:
 
-![readme.md](04.png)
+![.gitignore 3](04.png)
 
 得到 **flag{Do_n0t_ign0re_sma11_things}**
